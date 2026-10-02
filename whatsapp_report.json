@@ -1,0 +1,20 @@
+[
+    {
+        "name": "Balaji",
+        "phone": "8144566915",
+        "message_sent": "Hi Mammu, This is my automated message",
+        "last_3_messages": [],
+        "screenshot": "screenshots/Balaji_20261002_222500.png",
+        "timestamp": "2026-10-02 22:25:01",
+        "status": "Sent"
+    },
+    {
+        "name": "Shalini",
+        "phone": "8148334082",
+        "message_sent": "Hi Mammu, This is my automated message",
+        "last_3_messages": [],
+        "screenshot": "screenshots/Shalini_20261002_222510.png",
+        "timestamp": "2026-10-02 22:25:10",
+        "status": "Sent"
+    }
+]
